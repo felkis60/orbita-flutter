@@ -1,5 +1,5 @@
 os: osx 
-  language: generic 
+  language: ruby 
   before_script: 
     - brew update 
     - brew install --HEAD usbmuxd 
